@@ -12,8 +12,8 @@ export default function AboutPage() {
         <h1 className="text-3xl sm:text-4xl font-bold">About Me</h1>
 
         <p className="text-gray-400 text-base sm:text-lg">
-          I’m Haroon Abid Awan — a senior full stack consultant who believes great software
-          is more than just code. It's <strong className="text-white">clarity in design</strong>,
+          I&apos;m Haroon Abid Awan — a senior full stack consultant who believes great software
+          is more than just code. Its <strong className="text-white">clarity in design</strong>,
           <strong className="text-white"> resilience in architecture</strong>, and
           <strong className="text-white"> trust in delivery</strong>.
         </p>
@@ -144,7 +144,7 @@ export default function AboutPage() {
         <div className="pt-4">
           <h2 className="text-2xl font-semibold mb-2">My Coding Philosophy</h2>
           <p className="italic text-gray-300 text-lg border-l-4 pl-4 border-emerald-600">
-            "Build it once, build it right."
+            &quot;Build it once, build it right.&quot;
           </p>
           <p className="text-gray-400 mt-2">
             Code is easy to write. But writing code that scales, survives handoffs, and earns trust —
@@ -155,8 +155,8 @@ export default function AboutPage() {
         {/* CTA */}
         <div className="pt-8">
           <p className="text-gray-400 mb-4">
-            I’m based in Bahrain and work remotely with clients around the world.
-            Whether you're building a startup, scaling a system, or just need a senior developer who can speak both code and strategy — I’m ready to collaborate.
+            I&apos;m based in Bahrain and work remotely with clients around the world.
+            Whether youre building a startup, scaling a system, or just need a senior developer who can speak both code and strategy — I’m ready to collaborate.
           </p>
           <div className="flex gap-4 flex-wrap">
             <Link

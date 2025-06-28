@@ -1,6 +1,5 @@
 'use client';
 
-import Link from "next/link";
 import FadeIn from "@/components/animations/FadeIn";
 
 export default function ContactPage() {
@@ -10,7 +9,7 @@ export default function ContactPage() {
         <h1 className="text-3xl sm:text-4xl font-bold">Let’s Work Together</h1>
 
         <p className="text-gray-400 text-base sm:text-lg">
-          I'm available for freelance and contract projects. Feel free to reach out via email
+          I&apos;m available for freelance and contract projects. Feel free to reach out via email
           or connect with me on your preferred freelance platform.
         </p>
 
